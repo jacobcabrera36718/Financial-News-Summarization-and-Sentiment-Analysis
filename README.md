@@ -116,7 +116,7 @@ The script retrieves and processes news articles for the following stock tickers
                 array.append(output)
         return array
 
-final_output = create_array(summaries, sentiments, clean_urls)
+    final_output = create_array(summaries, sentiments, clean_urls)
     final_output.insert(0, ['Ticker', 'Summary', 'Sentiment', 'Confidence', 'URL'])
 
     with open('summaries2.csv', mode='w', newline='') as f:
