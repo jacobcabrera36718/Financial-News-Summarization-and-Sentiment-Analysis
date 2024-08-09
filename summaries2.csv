@@ -1,0 +1,56 @@
+Ticker,Summary,Sentiment,Confidence,URL
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/consumer-exhibiting-selectivity-while-spending-210904202.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/jobless-claims-data-wbd-stock-174959010.html
+AAPL,AI chip giant has lost more than $750 billion since its June peak.,NEGATIVE,0.9997188448905945,https://finance.yahoo.com/news/nvidia-stock-surges-6-as-chip-stocks-lead-market-rebound-201207972.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/good-time-rebalance-portfolio-amid-162501642.html
+AAPL,Streaming unit reported operating income for first time. TV business took a $6 billion write-down on value of assets,NEGATIVE,0.9945976734161377,https://finance.yahoo.com/news/paramount-reports-first-quarter-of-streaming-profits-plans-15-layoff-and-takes-6-billion-charge-on-cable-business-200210474.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/dutch-bros-stock-dives-reaction-153257780.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/markets-may-middle-bounce-back-142455088.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/stocks-rally-jobless-claims-data-172937329.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-surge-after-jobs-data-eases-concerns-over-us-economy-133041698.html
+AAPL,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/navigating-sell-offs-volatile-market-175446072.html
+AAPL,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%26tbm%3Dnws%26pccc%3D1
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/consumer-exhibiting-selectivity-while-spending-210904202.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/jobless-claims-data-wbd-stock-174959010.html
+MSFT,AI chip giant has lost more than $750 billion since its June peak.,NEGATIVE,0.9997188448905945,https://finance.yahoo.com/news/nvidia-stock-surges-6-as-chip-stocks-lead-market-rebound-201207972.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/good-time-rebalance-portfolio-amid-162501642.html
+MSFT,Streaming unit reported operating income for first time. TV business took a $6 billion write-down on value of assets,NEGATIVE,0.9945976734161377,https://finance.yahoo.com/news/paramount-reports-first-quarter-of-streaming-profits-plans-15-layoff-and-takes-6-billion-charge-on-cable-business-200210474.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/dutch-bros-stock-dives-reaction-153257780.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/markets-may-middle-bounce-back-142455088.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/stocks-rally-jobless-claims-data-172937329.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-surge-after-jobs-data-eases-concerns-over-us-economy-133041698.html
+MSFT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/navigating-sell-offs-volatile-market-175446072.html
+MSFT,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%26tbm%3Dnws%26pccc%3D1
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/consumer-exhibiting-selectivity-while-spending-210904202.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/jobless-claims-data-wbd-stock-174959010.html
+WMT,AI chip giant has lost more than $750 billion since its June peak.,NEGATIVE,0.9997188448905945,https://finance.yahoo.com/news/nvidia-stock-surges-6-as-chip-stocks-lead-market-rebound-201207972.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/good-time-rebalance-portfolio-amid-162501642.html
+WMT,Streaming unit reported operating income for first time. TV business took a $6 billion write-down on value of assets,NEGATIVE,0.9945976734161377,https://finance.yahoo.com/news/paramount-reports-first-quarter-of-streaming-profits-plans-15-layoff-and-takes-6-billion-charge-on-cable-business-200210474.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/dutch-bros-stock-dives-reaction-153257780.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/markets-may-middle-bounce-back-142455088.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/stocks-rally-jobless-claims-data-172937329.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-surge-after-jobs-data-eases-concerns-over-us-economy-133041698.html
+WMT,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/navigating-sell-offs-volatile-market-175446072.html
+WMT,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%26tbm%3Dnws%26pccc%3D1
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/consumer-exhibiting-selectivity-while-spending-210904202.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/jobless-claims-data-wbd-stock-174959010.html
+JPM,AI chip giant has lost more than $750 billion since its June peak.,NEGATIVE,0.9997188448905945,https://finance.yahoo.com/news/nvidia-stock-surges-6-as-chip-stocks-lead-market-rebound-201207972.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/good-time-rebalance-portfolio-amid-162501642.html
+JPM,Streaming unit reported operating income for first time. TV business took a $6 billion write-down on value of assets,NEGATIVE,0.9945976734161377,https://finance.yahoo.com/news/paramount-reports-first-quarter-of-streaming-profits-plans-15-layoff-and-takes-6-billion-charge-on-cable-business-200210474.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/dutch-bros-stock-dives-reaction-153257780.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/markets-may-middle-bounce-back-142455088.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/stocks-rally-jobless-claims-data-172937329.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-surge-after-jobs-data-eases-concerns-over-us-economy-133041698.html
+JPM,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/navigating-sell-offs-volatile-market-175446072.html
+JPM,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%26tbm%3Dnws%26pccc%3D1
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/consumer-exhibiting-selectivity-while-spending-210904202.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/jobless-claims-data-wbd-stock-174959010.html
+NFLX,AI chip giant has lost more than $750 billion since its June peak.,NEGATIVE,0.9997188448905945,https://finance.yahoo.com/news/nvidia-stock-surges-6-as-chip-stocks-lead-market-rebound-201207972.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/good-time-rebalance-portfolio-amid-162501642.html
+NFLX,Streaming unit reported operating income for first time. TV business took a $6 billion write-down on value of assets,NEGATIVE,0.9945976734161377,https://finance.yahoo.com/news/paramount-reports-first-quarter-of-streaming-profits-plans-15-layoff-and-takes-6-billion-charge-on-cable-business-200210474.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/dutch-bros-stock-dives-reaction-153257780.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/markets-may-middle-bounce-back-142455088.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/stocks-rally-jobless-claims-data-172937329.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-surge-after-jobs-data-eases-concerns-over-us-economy-133041698.html
+NFLX,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/navigating-sell-offs-volatile-market-175446072.html
+NFLX,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%26tbm%3Dnws%26pccc%3D1
