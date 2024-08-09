@@ -116,4 +116,17 @@ The script retrieves and processes news articles for the following stock tickers
                 array.append(output)
         return array
 
-    final_out
+final_output = create_array(summaries, sentiments, clean_urls)
+    final_output.insert(0, ['Ticker', 'Summary', 'Sentiment', 'Confidence', 'URL'])
+
+    with open('summaries2.csv', mode='w', newline='') as f:
+        csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csv_writer.writerows(final_output)
+    ```
+
+### Running the Script
+
+To run the script, execute the following command:
+
+```bash
+python financial_summarization.py
